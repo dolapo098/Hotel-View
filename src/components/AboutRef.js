@@ -28,7 +28,9 @@ export default function AboutRef() {
           meets all your requirements to perfection.
         </p>
         <p>Let us make your business our business.</p>
-        <div id='wrapContent'>Read More</div>
+        <div id='wrapContent' onClick>
+          Read More
+        </div>
       </div>
       <SolutionsRef />
     </section>
