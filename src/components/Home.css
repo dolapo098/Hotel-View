@@ -1,0 +1,41 @@
+.layout {
+  margin-top: 0px;
+  padding-top: 0px;
+  background-image: url("../images/landscape.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 658px;
+  opacity: 0.65;
+  overflow: hidden;
+}
+
+.layout .textLayout {
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: xx-large;
+  font-weight: bolder;
+  padding-top: 170px;
+  line-height: 1;
+}
+#wordLayout {
+  font-weight: bold;
+  text-transform: none;
+  font-size: larger;
+  font-family: sans-serif;
+  color: white;
+}
+
+/* .layout .textLayout {
+  position: absolute;
+  text-align: center;
+  left: 25%;
+  top: 25%;
+  color: white;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: xx-large;
+  font-weight: bolder;
+} */

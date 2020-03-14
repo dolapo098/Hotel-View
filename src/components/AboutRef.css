@@ -1,0 +1,30 @@
+.containerWrap {
+  background-color: white;
+  min-height: 458px;
+  vertical-align: top;
+  font-family: serif;
+  font-size: large;
+  font-weight: 500;
+}
+.wrapper {
+  margin-top: 0;
+  margin-left: 50px;
+  float: left;
+  width: 46.6%;
+  box-sizing: border-box;
+}
+#wrapHead {
+  margin-top: 0px;
+  padding-top: 20px;
+}
+#wrapContent {
+  margin-left: 0px;
+  background-color: lightcoral;
+  width: 100px;
+  height: 30px;
+  padding-top: 10px;
+  padding-left: 15px;
+  text-transform: capitalize;
+  font-family: serif;
+  font-weight: bold;
+}
