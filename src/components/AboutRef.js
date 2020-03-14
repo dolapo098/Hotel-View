@@ -1,18 +1,10 @@
 import React from "react";
 import "./AboutRef.css";
 import SolutionsRef from "./SolutionsRef";
-// import { BrowserRouter as R, Link } from "react-router-dom";
 
 import "./MediaQuery.css";
 
 export default function AboutRef() {
-  // const linkTo = () => {
-  //   patch = (
-  //     <R>
-  //       <Route path='/about' exact component={About} />;
-  //     </R>
-  //   );
-  // };
   return (
     <section className='containerWrap'>
       <div className='wrapper'>
